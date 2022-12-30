@@ -21,7 +21,7 @@ timezone:
 
 title: Imen Ben Mahmoud                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: An AI enthusiastic    # it will display as the sub-title
 
 description: As an AI enthousiastic                   # used by seo meta and the atom feed
   
@@ -33,7 +33,7 @@ github:
   username: imenbenmhd            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: imenbmh          # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,9 +41,10 @@ social:
   name: Imen Ben Mahmoud
   email: imen.benmhd@gmail.com           # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/imenbenmhd       # change to your github homepage
+    # The first element serves as the copyright owner's linki
+    - https://www.linkdin.com/in/imen-ben-mahmoud-279260174/
+    - https://github.com/imenbenmhd      # change to your twitter homepage
+         # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/imgs/Figure_1.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
